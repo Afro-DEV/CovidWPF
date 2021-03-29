@@ -1,0 +1,15 @@
+C:\Users\ibisa\Documents\Programming\CovidWPF\bin\Debug\CovidWPF.exe.config
+C:\Users\ibisa\Documents\Programming\CovidWPF\bin\Debug\CovidWPF.exe
+C:\Users\ibisa\Documents\Programming\CovidWPF\bin\Debug\CovidWPF.pdb
+C:\Users\ibisa\Documents\Programming\CovidWPF\obj\Debug\CovidWPF.csprojAssemblyReference.cache
+C:\Users\ibisa\Documents\Programming\CovidWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ibisa\Documents\Programming\CovidWPF\obj\Debug\App.g.cs
+C:\Users\ibisa\Documents\Programming\CovidWPF\obj\Debug\CovidWPF_MarkupCompile.cache
+C:\Users\ibisa\Documents\Programming\CovidWPF\obj\Debug\CovidWPF_MarkupCompile.lref
+C:\Users\ibisa\Documents\Programming\CovidWPF\obj\Debug\MainWindow.baml
+C:\Users\ibisa\Documents\Programming\CovidWPF\obj\Debug\CovidWPF.g.resources
+C:\Users\ibisa\Documents\Programming\CovidWPF\obj\Debug\CovidWPF.Properties.Resources.resources
+C:\Users\ibisa\Documents\Programming\CovidWPF\obj\Debug\CovidWPF.csproj.GenerateResource.cache
+C:\Users\ibisa\Documents\Programming\CovidWPF\obj\Debug\CovidWPF.csproj.CoreCompileInputs.cache
+C:\Users\ibisa\Documents\Programming\CovidWPF\obj\Debug\CovidWPF.exe
+C:\Users\ibisa\Documents\Programming\CovidWPF\obj\Debug\CovidWPF.pdb
